@@ -1,3 +1,1 @@
-python syntax
-variable 
-print function
+Create 10 variables containing personal information and print them.
